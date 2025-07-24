@@ -385,7 +385,11 @@
     gap: 15px;
 
   }
-
+.btn {
+   
+  padding: 19px 33px;
+   
+}
   .card img {
     width: 100%;
   }
