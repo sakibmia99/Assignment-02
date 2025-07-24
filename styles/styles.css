@@ -104,6 +104,9 @@
 }
 
 /* plants section styles */
+.Plants-section {
+  margin-top: 150px;
+}
 .plants-title {
   font-size: 3rem;
   font-weight: bold;
@@ -118,9 +121,6 @@
 }
 
 /* card styles */
-.Plants-section {
-  margin-top: 150px;
-}
 
 .card-container {
   display: grid;
@@ -379,6 +379,9 @@
   }
 
   /* Plants-section and card responsive */
+  .Plants-section {
+  margin-top: 50px;
+}
   .card-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
