@@ -450,9 +450,7 @@
   }
 
   .subscribe-button {
-
     padding: 18px 30px;
-
   }
 
   .Join-title {
@@ -462,8 +460,8 @@
   /* footer-section responsive*/
   .footer-section {
     flex-direction: column;
-    padding: 20px;
-    margin-top: 30px;
+    padding: 19px;
+    margin-top: 28px;
   }
 
 }
